@@ -7,7 +7,7 @@ Use of deterministic and Bayesian frameworks to interpret link values of similar
 
 ## Table of contents
 * [Code overview](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#code-overview)
-* [Introduction](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Introduction)
+* [Scope](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Scope)
 * [Usage](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Usage)
   * [Deep level](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Deep-level)
   * [Working level](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Working-level)
@@ -18,7 +18,7 @@ Use of deterministic and Bayesian frameworks to interpret link values of similar
 ## Code overview
 The following code reads in simulated chemical data (*original data cannot be disseminated*) for illicit drug specimens. Comparison metrics are applied to the dataset to determine the degree of similarity between specimens. This is followed by the application of deterministic and bayesian frameworks to determine link values of similarity scores. Links between a subset of specimens can also be visualised for both the deterministic and Bayesian framewok. 
 
-## Introduction
+## Scope
 With the constant evolution of illicit drugs markets, it is necessary to gain as much knowledge about them to disrupt or reduce their impact. Illicit drug specimens can be analysed to generate forensic intelligence and understand criminal activities. Part of this analysis involves the evaluation of similarity scores between illicit drug profiles to interpret the link value. Most studies utilise one of two prominent score evaluation approaches, i.e. deterministic or Bayesian, see Figure 1.  
 
 The aim of this project was to assess the operational capability of a dual approach in evaluating similarity scores between illicit drug profiles. Utilising a practical example, link values were generated individually from both approaches, then compared in parallel. As a result, it was possible to generate more informed hypotheses, relating to specimen linkage, due to the greater wealth of information available from the two approaches working concurrently.

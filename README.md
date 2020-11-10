@@ -8,7 +8,7 @@ similarity scores
 
   - [Code
     overview](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#code-overview)
-  - [Introduction](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Introduction)
+  - [Scope](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Scope)
   - [Usage](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Usage)
       - [Deep
         level](https://github.com/PopovicAna/Dual-approach-for-score-evaluation#Deep-level)
@@ -28,7 +28,7 @@ bayesian frameworks to determine link values of similarity scores. Links
 between a subset of specimens can also be visualised for both the
 deterministic and Bayesian framewok.
 
-## Introduction
+## Scope
 
 With the constant evolution of illicit drugs markets, it is necessary to
 gain as much knowledge about them to disrupt or reduce their impact.
